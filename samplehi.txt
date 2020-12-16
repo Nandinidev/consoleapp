@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hiii!
 iam from notepad
+=======
+heyyyy!!
+iam from github
+>>>>>>> 3cce50c415d32a9e34750c7f31cf2942073b52f4
