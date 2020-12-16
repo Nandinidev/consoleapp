@@ -1,0 +1,6 @@
+D:\console\SampleGitLearn\SampleGitLearn\bin\Debug\SampleGitLearn.exe.config
+D:\console\SampleGitLearn\SampleGitLearn\bin\Debug\SampleGitLearn.exe
+D:\console\SampleGitLearn\SampleGitLearn\bin\Debug\SampleGitLearn.pdb
+D:\console\SampleGitLearn\SampleGitLearn\obj\Debug\SampleGitLearn.csproj.CoreCompileInputs.cache
+D:\console\SampleGitLearn\SampleGitLearn\obj\Debug\SampleGitLearn.exe
+D:\console\SampleGitLearn\SampleGitLearn\obj\Debug\SampleGitLearn.pdb
